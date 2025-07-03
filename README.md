@@ -46,8 +46,8 @@ A mobile solution for employee check-in/out, approvals, and reporting.
 
 Here are some visuals from my recent work:
 
-<img src="assets/app_screen_1.jpg" width="300" />
-<img src="assets/app_screen_2.webp" width="300" />
+<img src="home.jpg" width="300" />
+<img src="profile.jpg" width="300" />
 
 ---
 
