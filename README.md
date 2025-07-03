@@ -30,6 +30,18 @@ A mobile solution for employee check-in/out, approvals, and reporting.
 
 ---
 
+### 🛍️ Apex Store  
+**Retail Sales & Inventory App**
+
+- Track sales invoices and daily reports  
+- Manage products, categories, and stock levels  
+- Monitor employee sales performance  
+- Offline mode with backend sync  
+
+> Tech Used: Flutter, Firebase, REST API, Dio
+
+---
+
 ### ⚽ SPARK — Youth Center App
 **Booking & Tournament Management App**
 
@@ -48,7 +60,6 @@ Here are some visuals from my recent work:
 
 <img src="home.jpg" width="300" /><img src="profile.jpg" width="300" />
 <img src="departure.jpg" width="300" /><img src="attendance.jpg" width="300" />
-<img src="home.jpg" width="300" /><img src="profile.jpg" width="300" />
 <img src="reports.jpg" width="300" /><img src="action.jpg" width="300" />
 
 ---
