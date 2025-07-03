@@ -46,8 +46,8 @@ A mobile solution for employee check-in/out, approvals, and reporting.
 
 Here are some visuals from my recent work:
 
-<img src="home.jpg" width="300" /> <img src="profile.jpg" width="300" />
-
+<img src="home.jpg" width="300" /><img src="profile.jpg" width="300" />
+<img src="departure.jpg" width="300" /><img src="attendance.jpg" width="300" />
 
 ---
 
